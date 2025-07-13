@@ -1,4 +1,4 @@
-# Final Year Project
+# Unraveling the Drivers of Global Poverty: A Comprehensive Analysis of Geographic and Social Factors
 This repository contains the analysis for my HKU Final Year Project, **'Unraveling the Drivers of Global Poverty: A Comprehensive Analysis of Geographic 
 and Social Factors'**. 
 The project aims to investigate the correlation between poverty rates and various geographic and social factors, with the goal of providing insights for strategic poverty alleviation policies.
